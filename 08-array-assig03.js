@@ -11,6 +11,7 @@ for (let index = 0; index < array.length; index++) {
 }
 console.log(addition);
 
+
 console.log(`=========== sum of all odd positioned elements ==========`);
 add = 0;
 for (let index = 0; index < array.length; index++) {
